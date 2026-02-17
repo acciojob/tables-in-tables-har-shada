@@ -1,12 +1,15 @@
 
-/* Your CSS Code here. */   table, th, td {
+/* Your CSS Code here. */        table, th, td {
             border: 1px solid black;
             border-collapse: collapse;
+        }
+
+        th, td {
             padding: 8px;
             text-align: center;
         }
 
-        .black-cell {
+        .black-bg {
             background-color: black;
             color: white;
         }
